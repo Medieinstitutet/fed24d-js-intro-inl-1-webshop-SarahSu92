@@ -1,0 +1,15 @@
+
+@use "_base";
+
+@media screen and (min-width:375px) {
+    @import "_mobile";
+}
+
+
+@media screen and (min-width:820px) {
+    @import "_tablet";
+}
+
+@media screen and (min-width:1300px) {
+    @import "_desktop";
+}
