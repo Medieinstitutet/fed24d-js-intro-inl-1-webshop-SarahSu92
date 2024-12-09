@@ -1,0 +1,46 @@
+body {
+    max-width: auto;  
+    margin: 0 auto;     
+    padding: 10px;     
+    box-sizing: border-box; 
+}
+
+.basket {
+  font-weight: bold;
+  padding: 10px;
+  margin-left: 20px;
+  
+  
+}
+
+.support {
+  font-weight: bold;
+  
+}
+
+  img {
+    width: 200px;
+    height: 200px;
+}
+
+.product {
+    flex: 0 1 calc(50% - 10px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    box-sizing: border-box;
+  
+  
+  }
+
+  button {
+    border: 1px solid black;
+  }
+
+  input[type="radio"],
+  input[type="checkbox"] {
+  width: auto;
+  transform: scale(1.1);
+  margin-right: 10px;
+  
+}
