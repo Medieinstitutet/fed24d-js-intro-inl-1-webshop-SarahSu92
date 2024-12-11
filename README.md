@@ -17,6 +17,8 @@ At the bottom of the page we have a form to collect and validate order informati
 the form to show the date of the order and shipment details, price and so on. If the customer takes to long though, over 15 minutes to complete the form validation an alert pops up that informs
 the customer that it has taken to long to complete and the form has been restored. 
 
+Also validation report of HTML and CSS at the bottom of the page, not 100% correct but I let that be after trying a few different things, otherwise it would have interfered with how the page was able to function.
+
 Images of the page below, also a ligthouse report. 
 
 ![Skärmbild 2024-12-04 145718](https://github.com/user-attachments/assets/a2320c4e-21a9-414a-b359-c8e3348bdf67)
@@ -27,6 +29,10 @@ Images of the page below, also a ligthouse report.
 ![Skärmbild 2024-12-04 145925](https://github.com/user-attachments/assets/ad72b506-3d79-4364-89fd-4bee4c6ec76b)
 ![Skärmbild 2024-12-04 145942](https://github.com/user-attachments/assets/6ac4af82-e9e8-4cde-a791-d82f5ed1dad5)
 ![Skärmbild 2024-12-04 150026](https://github.com/user-attachments/assets/f179b4f7-a04a-42c0-a0ed-e2880613c6bd)
+
+![Skärmbild 2024-12-11 151158](https://github.com/user-attachments/assets/334614d2-c478-4a21-953f-4b553405eea1)
+![Skärmbild 2024-12-11 151318](https://github.com/user-attachments/assets/63b10930-921f-4ba1-8bc7-c213c30f516a)
+
 
 
 
